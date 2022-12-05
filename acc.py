@@ -1,7 +1,7 @@
 import time, os
 import auto_player as player
 
-
+#d
 def get_pictures():
     player.screen_shot()
 
